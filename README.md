@@ -7,7 +7,7 @@
   
   . 🌱 Engenharia de Software
   
-  . 🌱 Especialização em Desenvolvimento Full Stak Python
+  . 🌱 Especialização em Desenvolvimento Full Stack Python
   
   . 🌱 Suporte técnico em TI
 
