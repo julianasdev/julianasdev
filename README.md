@@ -35,7 +35,7 @@
 
 ---
 
-## 🌟 Minhas Skills
+## 👩‍💻 Estudando 
 
 ![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -58,10 +58,10 @@
 - [Projeto de Backend com Python](https://github.com/julianasdev/projeto-backend-pytho)
 
 
-✨<div align="center">
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{julianasdev}/count.svg" /></p> 
-<br></div>✨
+<br></div>
 
 ---
 
