@@ -35,7 +35,7 @@
 
 ---
 
-## 👩‍💻 Estudando 
+## 👩‍💻 Estudando...📝
 
 ![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
