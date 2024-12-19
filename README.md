@@ -53,7 +53,7 @@
 
 ---
 ## 🔧 Projetos Recentes
-- [Imersão Dev - Google Gemini](https://github.com/julianasdev/imersao-dev-google-gemini)
+- [Projeto - Google Gemini](https://github.com/julianasdev/imersao-dev-google-gemini)
 - [NLW Pocket Fullstack](https://github.com/julianasdev/nlw-pocket-fullstack)
 - [Projeto de Backend com Python](https://github.com/julianasdev/projeto-backend-pytho)
 - [Projeto Instabyte com Node.js-Google Cloud e Gemini](https://github.com/julianasdev/instabyte_frontend.git)
