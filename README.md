@@ -10,8 +10,8 @@
 
 
 <h4 style="color: #4682B4;">🎓 Estudante de Engenharia de Software e apaixonada por tecnologia.</h2>  
-<h4 style="color: #4682B4;">💻 Em transição de carreira da área administrativa para a área de TI.</h2>  
-<h4 style="color: #4682B4;">📚 Atualmente me especializando em Python Fullstack e Suporte Técnico em TI.</h2>
+<h4 style="color: #4682B4;">💻 Em transição de carreira da área administrativa para TI.</h2>  
+<h4 style="color: #4682B4;">📚 Atualmente estudantte de Python e Java .</h2>
   
 
 
